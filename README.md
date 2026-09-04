@@ -116,33 +116,12 @@ La organización del repositorio seguirá una estructura basada en los diferente
 ```text
 fundamentos-python/
 │
-├── 01_variables_y_tipos_de_datos/
-│   ├── ejercicio_01.py
-│   ├── ejercicio_02.py
-│   └── ...
+├── 01_Ejercicios_practica_fundamentos1
 │
-├── 02_operadores/
-│   ├── ejercicio_01.py
-│   ├── ejercicio_02.py
-│   └── ...
+├── 02_Ejercicios_practica_fundamentos2
 │
-├── 03_condicionales/
-│   ├── ejercicio_01.py
-│   ├── ejercicio_02.py
-│   └── ...
+├── 03_Ejercicios_practica_fundamentos3
 │
-├── 04_ciclos/
-│   ├── ejercicio_01.py
-│   ├── ejercicio_02.py
-│   └── ...
-│
-├── 05_listas/
-│   └── ...
-│
-├── 06_funciones/
-│   └── ...
-│
-├── 07_cadenas/
-│   └── ...
+├── 04_Ejercicios_practica_fundamentos4
 │
 └── README.md

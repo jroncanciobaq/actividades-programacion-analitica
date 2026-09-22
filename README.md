@@ -68,8 +68,6 @@ Práctica de estructuras repetitivas:
 - Contadores
 - Acumuladores
 - Control de ciclos
-- `break`
-- `continue`
 
 ### 5. Listas y estructuras de datos
 
